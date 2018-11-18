@@ -70,11 +70,13 @@ package com.company;
 
 public class PancakeFlipper {
 
+/*
     public static void main(String[] args) {
         System.out.println(solve("---+-++- 3"));
         System.out.println(solve("+++++ 4"));
         System.out.println(solve("-+-+- 4"));
     }
+*/
 
     public static String solve(String data){
         String[] split = data.split(" ");
